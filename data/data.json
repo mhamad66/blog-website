@@ -1,0 +1,52 @@
+{
+  "tags": [
+    {
+      "id": "1",
+      "name": "React"
+    },
+    {
+      "id": "2",
+      "name": "JavaScript"
+    },
+    {
+      "id": "3",
+      "name": "Next.js"
+    },
+    {
+      "id": "4",
+      "name": "TypeScript"
+    },
+    {
+      "id": "5",
+      "name": "Web Development"
+    },
+    {
+      "id": "6",
+      "name": "Programming"
+    },
+    {
+      "id": "7",
+      "name": "sport"
+    },
+    {
+      "id": "8",
+      "name": "art"
+    },
+    {
+      "id": "9",
+      "name": "music"
+    },
+    {
+      "id": "10",
+      "name": "technology"
+    },
+    {
+      "id": "11",
+      "name": "reactive_programming"
+    },
+    {
+      "id": "11",
+      "name": "ux"
+    }
+  ]
+}
