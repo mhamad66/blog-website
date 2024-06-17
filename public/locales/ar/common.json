@@ -1,0 +1,18 @@
+{
+  "hello": "مرحبا",
+  "welcome": "أهلا بك",
+  "recommended_topics": "المواضيع الموصى بها",
+  "sport": "رياضة",
+  "art": "فن",
+  "music": "موسيقى",
+  "technology": "تقنية",
+  "reactive_programming": "برمجة تفاعلية",
+  "ux": "UX",
+  "search_by_title_or_content": "ابحث بالعنوان او بالمحتوى",
+  "home": "الرئيسية",
+  "dashboard": "لوحة التحكم",
+  "posts": "المنشوات",
+  "categories": "الاقسام",
+  "tags": "العلامات",
+  "blog": "مدونة"
+}

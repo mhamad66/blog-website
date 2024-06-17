@@ -1,0 +1,18 @@
+{
+  "hello": "Hello",
+  "welcome": "Welcome",
+  "recommended_topics": "Recommended topics",
+  "sport": "Sport",
+  "art": "Art",
+  "music": "Music",
+  "technology": "Technology",
+  "reactive_programming": "Reactive Programming",
+  "ux": "UX",
+  "search_by_title_or_content": "Search By Title Or Content",
+  "home": "Home",
+  "dashboard": "Dashboard",
+  "posts": "Posts",
+  "categories": "Categories",
+  "tags": "Tags",
+  "blog": "BLOG"
+}
