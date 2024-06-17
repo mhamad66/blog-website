@@ -9,9 +9,9 @@ interface LayoutProps {
 export default function DashboardLayout({ children }: LayoutProps) {
   return (
     <>
-      <div className='flex container mx-auto justify-between p-4'>
+      <div className="container mx-auto flex px-4">
         <Sidebar />
-        <main>{children}</main>
+        <main className="w-10/12">{children}</main>
       </div>
     </>
   );
